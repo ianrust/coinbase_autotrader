@@ -12,7 +12,7 @@ price_payload={'qty':1.0}
 
 # gmail login info
 gmailUser='iancharlesrust@gmail.com'
-gmailPassword='Smash11$'
+gmailPassword='' #password omitting *facepalm*
 
 #function for interacting with coinbase
 def req_and_ret(url,req_input,header,url_type='GET'):
